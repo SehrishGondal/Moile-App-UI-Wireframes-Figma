@@ -14,7 +14,7 @@ This project consists of a comprehensive set of mobile app UI wireframes designe
 
 ## Getting Started
 To view the wireframes, access the Figma project linked below:
-- [View Wireframes in Figma](#)
+- [https://www.figma.com/design/0iZQX8rWwE1Ho3vHMNhjKv/Shopping-System-UI?node-id=0-1&p=f&t=piLG5y3uUIPvtvaY-0](#)
 
 ## Contribution
 Feel free to contribute by suggesting changes or improvements. Open issues or pull requests for any enhancements you wish to propose.
@@ -25,7 +25,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Author
 - **Sehrish Gondal**  
   [GitHub Profile](https://github.com/SehrishGondal)  
-  Email: [your-email@example.com]  
+  Email: [sehrishjabeen1258@gmail.com]  
 
 ## Date Created
 - 2026-04-19 17:56:25 UTC
